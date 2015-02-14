@@ -1,0 +1,76 @@
+[
+    {
+        "idSensor": 0,
+        "descripcion": "Energia Biblioteca",
+        "nombre": "BIBLIOEH",
+        "localizacion": {
+            "edificio": "Biblioteca",
+            "nivel": "piso 1,2,3,4"
+        },
+        "geo": {
+            "longitud": 19.2832985,
+            "latitud": -99.13692
+        },
+        "unidad": "KW",
+        "medidas": [
+            {
+                "estampilla": {
+                    "fecha": "14/2/2015",
+                    "hora": "14:0:0"
+                },
+                "valor": 157.5663908333347
+            },
+            {
+                "estampilla": {
+                    "fecha": "14/2/2015",
+                    "hora": "13:0:0"
+                },
+                "valor": 166.67639222222377
+            },
+            {
+                "estampilla": {
+                    "fecha": "7/2/2015",
+                    "hora": "15:0:0"
+                },
+                "valor": 119.22593847222475
+            }
+        ]
+    },
+    {
+        "idSensor": 2,
+        "descripcion": "Energia CEDTEC",
+        "nombre": "CEDETECEH",
+        "localizacion": {
+            "edificio": "CEDETEC",
+            "nivel": "piso 1,2,3,4"
+        },
+        "geo": {
+            "longitud": 19.2837143,
+            "latitud": -99.13502
+        },
+        "unidad": "KW",
+        "medidas": [
+            {
+                "estampilla": {
+                    "fecha": "14/2/2015",
+                    "hora": "14:0:0"
+                },
+                "valor": 31.17050399421502
+            },
+            {
+                "estampilla": {
+                    "fecha": "14/2/2015",
+                    "hora": "13:0:0"
+                },
+                "valor": 32.32180543806754
+            }
+            {
+                "estampilla": {
+                    "fecha": "12/2/2015",
+                    "hora": "6:0:0"
+                },
+                "valor": 20.40075872965924
+            },
+        ]
+    }
+]
