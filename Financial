@@ -1,0 +1,98 @@
+[
+    {
+        "idPais": 0,
+        "nombre": "Mexico",
+        "geo": {
+            "longitud": 19.2832985,
+            "latitud": -99.13692
+        },
+        "moneda": "MX",
+        "clientes": [
+            {
+                "cliente": {
+                    "nombre": "Pedro Juarez",
+                    "dinero": "450"
+                },
+                "valor": 148.579509166659
+            },
+            {
+                "cliente": {
+                    "nombre": "Norma Munoz",
+                    "dinero": "980"
+                },
+                "valor": 154.1653295833311
+            },
+            {
+                "cliente": {
+                    "nombre": "Marco A. Saint",
+                    "dinero": "9000"
+                },
+                "valor": 108.12786944444964
+            }
+        ]
+    },
+    {
+        "idPais": 1,
+        "nombre": "USA",
+        "geo": {
+            "longitud": 19.2832985,
+            "latitud": -99.13692
+        },
+        "moneda": "USD",
+        "clientes": [
+            {
+                "cliente": {
+                    "nombre": "Mike Miyers",
+                    "dinero": "4500"
+                },
+                "valor": 148.579509166659
+            },
+            {
+                "cliente": {
+                    "nombre": "William Smith",
+                    "dinero": "700"
+                },
+                "valor": 154.1653295833311
+            },
+            {
+                "cliente": {
+                    "nombre": "Patrick OConor",
+                    "dinero": "4509"
+                },
+                "valor": 108.12786944444964
+            }
+        ]
+    },
+    {
+        "idPais": 2,
+        "nombre": "Canada",
+        "geo": {
+            "longitud": 19.2832985,
+            "latitud": -99.13692
+        },
+        "moneda": "CD",
+        "clientes": [
+            {
+                "cliente": {
+                    "nombre": "Robin Sckerbasky",
+                    "dinero": "45000"
+                },
+                "valor": 148.579509166659
+            },
+            {
+                "cliente": {
+                    "nombre": "Bareny Stinson",
+                    "dinero": "3000"
+                },
+                "valor": 154.1653295833311
+            },
+            {
+                "cliente": {
+                    "nombre": "Katy Pit",
+                    "dinero": "10000"
+                },
+                "valor": 108.12786944444964
+            }
+        ]
+    }
+]
