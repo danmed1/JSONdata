@@ -11,7 +11,7 @@
         "plant_count": "4",
 
 "materiales":[
-
+    {
         "carbon": {
 
             "past": "323830.0000",
@@ -81,7 +81,7 @@
             "future": "0.0000"
 
         }
-
+    }
 ]
 
     },
@@ -97,7 +97,7 @@
         "plant_count": "2”,
 
 "materiales":[
-
+    {
         "carbon": {
 
             "past": "39829.0000",
@@ -167,7 +167,7 @@
             "future": "0.0000"
 
         }
-
+    }
 ]
 
     },
@@ -183,7 +183,7 @@
         "plant_count": "1”,
 
 "materiales":[
-
+    {
         "carbon": {
 
             "past": "13878.0000",
@@ -253,7 +253,7 @@
             "future": "0.0000"
 
         }
-
+    }
 ]
 
     },
@@ -269,7 +269,7 @@
         "plant_count": "1”,
 
 "materiales":[
-
+    {
         "carbon": {
 
             "past": "362.9600",
@@ -339,7 +339,7 @@
             "future": "0.0000"
 
         }
-
+    }
 ]
 
     }
