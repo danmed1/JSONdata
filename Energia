@@ -1,0 +1,347 @@
+[
+
+    {
+
+        "id": "5247",
+
+        "name": "DUPONT CO",
+
+        "hq_country": "6252001",
+
+        "plant_count": "4”,
+
+“materiales”:[
+
+        "carbon": {
+
+            "past": "323830.0000",
+
+            "present": "241420.0000",
+
+            "future": "241420.0000"
+
+        },
+
+        "energy": {
+
+            "past": "1027000.0000",
+
+            "present": "480320.0000",
+
+            "future": "480320.0000"
+
+        },
+
+        "intensity": {
+
+            "past": "315.0000",
+
+            "present": "503.0000",
+
+            "future": "503.0000"
+
+        },
+
+        "fossil": {
+
+            "past": "1.0000",
+
+            "present": "1.0000",
+
+            "future": "1.0000"
+
+        },
+
+        "nuclear": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "hydro": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "renewable": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        }
+
+]
+
+    },
+
+    {
+
+        "id": "5248",
+
+        "name": "DUPONT DE NEMOURS DEUTSCHLAND",
+
+        "hq_country": "2921044",
+
+        "plant_count": "2”,
+
+“materiales”:[
+
+        "carbon": {
+
+            "past": "39829.0000",
+
+            "present": "13855.0000",
+
+            "future": "13855.0000"
+
+        },
+
+        "energy": {
+
+            "past": "56775.0000",
+
+            "present": "33670.0000",
+
+            "future": "33670.0000"
+
+        },
+
+        "intensity": {
+
+            "past": "702.0000",
+
+            "present": "411.0000",
+
+            "future": "411.0000"
+
+        },
+
+        "fossil": {
+
+            "past": "1.0000",
+
+            "present": "1.0000",
+
+            "future": "1.0000"
+
+        },
+
+        "nuclear": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "hydro": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "renewable": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        }
+
+]
+
+    },
+
+    {
+
+        "id": "75172",
+
+        "name": "E I DUPONT DE NEMOURS & CO",
+
+        "hq_country": "6252001",
+
+        "plant_count": "1”,
+
+“materiales”:[
+
+        "carbon": {
+
+            "past": "13878.0000",
+
+            "present": "2785.1001",
+
+            "future": "2785.1001"
+
+        },
+
+        "energy": {
+
+            "past": "31798.0000",
+
+            "present": "2701.5000",
+
+            "future": "2701.5000"
+
+        },
+
+        "intensity": {
+
+            "past": "436.0000",
+
+            "present": "1030.0000",
+
+            "future": "1030.0000"
+
+        },
+
+        "fossil": {
+
+            "past": "1.0000",
+
+            "present": "1.0000",
+
+            "future": "1.0000"
+
+        },
+
+        "nuclear": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "hydro": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "renewable": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        }
+
+]
+
+    },
+
+    {
+
+        "id": "5249",
+
+        "name": "DUPONT TEIJIN FILMS",
+
+        "hq_country": "2635167",
+
+        "plant_count": "1”,
+
+“materiales”:[
+
+        "carbon": {
+
+            "past": "362.9600",
+
+            "present": "306.0000",
+
+            "future": "306.0000"
+
+        },
+
+        "energy": {
+
+            "past": "725.1200",
+
+            "present": "434.8100",
+
+            "future": "434.8100"
+
+        },
+
+        "intensity": {
+
+            "past": "501.0000",
+
+            "present": "704.0000",
+
+            "future": "704.0000"
+
+        },
+
+        "fossil": {
+
+            "past": "1.0000",
+
+            "present": "1.0000",
+
+            "future": "1.0000"
+
+        },
+
+        "nuclear": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "hydro": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        },
+
+        "renewable": {
+
+            "past": "0.0000",
+
+            "present": "0.0000",
+
+            "future": "0.0000"
+
+        }
+
+]
+
+    }
+
+]
