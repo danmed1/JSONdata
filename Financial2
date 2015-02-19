@@ -77,14 +77,16 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Guadalajara",
+                    "nombre": "Monterey",
                      "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Joaquin Mendez",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -116,7 +118,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Norma Vazquez",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -146,9 +148,11 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Monterrey",
+                    "nombre": "Guadalajara",
                      "clientes": [
                         {
                             "cliente": {
@@ -297,14 +301,16 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Colorado",
+                    "nombre": "Arizona",
                      "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Joaquin Mendez",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -336,7 +342,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Norma Vazquez",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -366,9 +372,11 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Arizona",
+                    "nombre": "Colorado",
                      "clientes": [
                         {
                             "cliente": {
@@ -446,11 +454,11 @@
             "longitud": 19.2832985,
             "latitud": -99.13692
         },
-        "moneda": "CD",
+        "moneda": "CAD",
         "estados": [
             {
                 "estado": {
-                    "nombre": "DF",
+                    "nombre": "Toronto",
                      "clientes": [
                         {
                             "cliente": {
@@ -517,14 +525,16 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Guadalajara",
+                    "nombre": "Montreal",
                      "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Joaquin Mendez",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -556,7 +566,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Norma Vazquez",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -586,9 +596,11 @@
                             }
                         }
                     ]
-                },
+                }
+            },
+            {
                 "estado": {
-                    "nombre": "Monterrey",
+                    "nombre": "Quebec",
                      "clientes": [
                         {
                             "cliente": {
