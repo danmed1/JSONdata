@@ -7,38 +7,38 @@
             "latitud": -99.13692
         },
         "moneda": "MX",
-        "estados":[
+        "estados": [
             {
-                "estado":{
-                    "nombre":"DF",
+                "estado": {
+                    "nombre": "DF",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -46,31 +46,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -78,36 +78,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Guadalajara",
+                "estado": {
+                    "nombre": "Guadalajara",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -115,31 +115,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -147,36 +147,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Monterrey",
+                "estado": {
+                    "nombre": "Monterrey",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -184,38 +184,38 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
                             }
                         }
                     ]
-                }
+                },
             }
         ]
     },
@@ -227,38 +227,38 @@
             "latitud": -99.13692
         },
         "moneda": "USD",
-        "estados":[
+        "estados": [
             {
-                "estado":{
-                    "nombre":"Kansas",
+                "estado": {
+                    "nombre": "Washington",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -266,31 +266,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -298,36 +298,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Colorado",
+                "estado": {
+                    "nombre": "Colorado",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -335,31 +335,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -367,36 +367,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Arizona",
+                "estado": {
+                    "nombre": "Arizona",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -404,38 +404,38 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
                             }
                         }
                     ]
-                }
+                },
             }
         ]
     },
@@ -447,38 +447,38 @@
             "latitud": -99.13692
         },
         "moneda": "CD",
-        "estados":[
+        "estados": [
             {
-                "estado":{
-                    "nombre":"Vancouver",
+                "estado": {
+                    "nombre": "DF",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -486,31 +486,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -518,36 +518,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Toronto",
+                "estado": {
+                    "nombre": "Guadalajara",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -555,31 +555,31 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
@@ -587,36 +587,36 @@
                         }
                     ]
                 },
-                "estado":{
-                    "nombre":"Montreal",
+                "estado": {
+                    "nombre": "Monterrey",
                      "clientes": [
                         {
                             "cliente": {
-                                "idpresatmo":"324",
+                                "idpresatmo": "324",
                                 "nombre": "Pedro Juarez",
-                                "fecha_prestamo":"01/03/2015",
+                                "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo":"Comprar un nuevo movil",
-                                "fecha_limite":"31/07/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Comprar un nuevo movil",
+                                "fecha_limite": "31/07/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/04/2015",
-                                            "monto":"1000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/04/2015",
+                                            "monto": "1000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"1500",
-                                            "transaccion":"20967693",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "1500",
+                                            "transaccion": "20967693",
+                                            "banco": "Bancomer"
                                         }
                                     }
                                 ]
@@ -624,38 +624,38 @@
                         },
                         {
                             "cliente": {
-                                "idpresatmo":"325",
+                                "idpresatmo": "325",
                                 "nombre": "Norma Munoz",
-                                "fecha_prestamo":"01/02/2015",
+                                "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo":"Pago de adeudos de Tarjeta",
-                                "fecha_limite":"31/10/2015",
-                                "datos":{
-                                    "direccion":"Canal Miramontes 4327 Col. Coapa",
-                                    "telefono":"54760934"
+                                "motivo": "Pago de adeudos de Tarjeta",
+                                "fecha_limite": "31/10/2015",
+                                "datos": {
+                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "telefono": "54760934"
                                 },
                                 "pagos": [
                                     {
-                                        "pago":{
-                                            "fecha":"01/03/2015",
-                                            "monto":"2000",
-                                            "transaccion":"1979468543",
-                                            "banco":"Bancomer"
+                                        "pago": {
+                                            "fecha": "01/03/2015",
+                                            "monto": "2000",
+                                            "transaccion": "1979468543",
+                                            "banco": "Bancomer"
                                         }
                                     },
                                     {
-                                        "pago":{
-                                            "fecha":"01/05/2015",
-                                            "monto":"3500",
-                                            "transaccion":"20967693",
-                                            "banco":"Banamex"
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "3500",
+                                            "transaccion": "20967693",
+                                            "banco": "Banamex"
                                         }
                                     }
                                 ]
                             }
                         }
                     ]
-                }
+                },
             }
         ]
     }
