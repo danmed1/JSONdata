@@ -7,7 +7,8 @@
 
 "museos":[
     {
-    
+        "museo":[
+        {
         "Museo Britanico": {
 
             "latitud": "323830.0000",
@@ -24,6 +25,9 @@
 
                         }
             }
+            ]
+           }
+            
         ]   
     }
 ]
