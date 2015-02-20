@@ -17,5 +17,24 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Francia",
+        "museos": [
+            {
+                "museo": {
+                    "nombre": "Louvre",
+                    "latitud": "1027000.0000",
+                    "longuitud": "480320.0000"
+                }
+            },
+            {
+                "museo": {
+                    "nombre": "Museo de cosas",
+                    "latitud": "9927000.0000",
+                    "longuitud": "250320.0000"
+                }
+            }
+        ]
     }
 ]
