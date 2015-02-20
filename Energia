@@ -18,7 +18,8 @@
                                         }
                                     }
                                 ]
-                            
+                            }
+                            "museo": {
                                 "nombre": "Louvre",
                                 "ubicacion": [
                                     {
@@ -29,6 +30,7 @@
                                     }
                                 ]
                             }
+                        }
                             
                             
                             }
