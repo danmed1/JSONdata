@@ -1,42 +1,33 @@
 [
     {
-        "name": "Inglaterra",
+        "idPais": 0,
+        "nombre": "Francia",
         "museos": [
             {
-                "museo": {
-                    "nombre": "Museo Geffrye",
-                    "latitud": "1027000.0000",
-                    "longitud": "480320.0000"
-                }
-            },
-            {
-                "museo": {
-                    "nombre": "Museo Britanico",
-                    "latitud": "9927000.0000",
-                    "longitud": "250320.0000"
-                }
-            }
-        ]
-    },
-    {
-        "name": "Francia",
-        "museos": [
-            {
-                "museo": {
-                    "nombre": "Louvre",
-                    "latitud": "1027000.0000",
-                    "longitud": "480320.0000"
-                }
-            },
-            {
+	            "museo": {
+            		"nombre": "Louvre",
+            		"ubicacion": [
+            		    {
+            			    "ubica": {
+            				    "latitud": "9927000.0000",
+            				    "longitud": "250320.0000"
+            				}
+            		    }
+                    ]
+                },
                 "museo": {
                     "nombre": "Museo Carnavalet",
-                    "latitud": "9927000.0000",
-                    "longitud": "250320.0000"
+                    "ubicacion": [
+                        {
+                            "ubica": {
+                                "latitud": "2827000.0000",
+                                "longitud": "290320.0000"
+                            }
+                        }
+                    ]
                 }
             }
         ]
-        
-        
     }
 ]
+
