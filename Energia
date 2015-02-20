@@ -2,66 +2,78 @@
     {
         "idPais": 0,
         "nombre": "Francia",
-        "museos": [
-            {
-                "museo": {
-                    "nombre": "Louvre",
-                     "ubicacion": [
+        "ciuades" : [
+            {   
+                "ciudad": {
+                    "nombre":"París",
+                    "museos": [
                         {
-                            "ubica": {
-                                "longitud": 19.2832985,
-                                "latitud": -99.13692
-                            }
+                            "museo": {
+                                "nombre": "Louvre",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "19.2832985",
+                                            "latitud": "-99.13692"
+                                        }
+                                    }
+                                ]
+                            },
+                            "museo": {
+                                "nombre": "Museo Carnavalet",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
                         }
                     ]
                 }
-            },
-            {
-                "museo": {
-                    "nombre": "Museo Carnavalet",
-                     "ubicacion": [
-                        {
-                            "ubica": {
-                                "longitud": 129.2832985,
-                                "latitud": -919.13692
-                            }
                         }
                     ]
                 }
-            }
+            }    
         ]
     },
+    
     {
-        "idPais": 1,
+        "idPais": 0,
         "nombre": "Inglaterra",
-        "museos": [
-            {
-                "museo": {
-                    "nombre": "Museo Británico",
-                     "ubicacion": [
+        "ciuades" : [
+            {   
+                "ciudad": {
+                    "nombre":"Londres",
+                    "museos": [
                         {
-                            "ubica": {
-                                "longitud": 19.2832985,
-                                "latitud": -23.13692
-                            }
+                            "museo": {
+                                "nombre": "Museo Británico",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "19.2832985",
+                                            "latitud": "-99.13692"
+                                        }
+                                    }
+                                ]
+                            },
+                            "museo": {
+                                "nombre": "Museo de Guerra",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
                         }
                     ]
                 }
-            },
-            {
-                "museo": {
-                    "nombre": "Museo de Guerra",
-                     "ubicacion": [
-                        {
-                            "ubica": {
-                                "longitud": 129.2832985,
-                                "latitud": -345.13692
-                            }
                         }
                     ]
                 }
-            }
+            }    
         ]
     }
-]
+
     
+]
