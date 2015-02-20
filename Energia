@@ -9,19 +9,6 @@
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "Museo Carnavalet",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
-                                            "longitud": "129.2832985",
-                                            "latitud": "-919.13692"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "museo": {
                                 "nombre": "Louvre",
                                 "ubicacion": [
                                     {
