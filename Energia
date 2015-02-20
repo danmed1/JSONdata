@@ -9,7 +9,33 @@
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "Louvre",
+                                "nombre": "The Louvre",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Petit Palais",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Musée d'Orsay",
                                 "ubicacion": [
                                     {
                                         "ubica": {
