@@ -118,7 +118,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Vazquez",
+                                "nombre": "Christina Vazquez",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -132,15 +132,23 @@
                                         "pago": {
                                             "fecha": "01/03/2015",
                                             "monto": "2000",
-                                            "transaccion": "1979468543",
+                                            "transaccion": "1549468543",
                                             "banco": "Bancomer"
                                         }
                                     },
                                     {
                                         "pago": {
                                             "fecha": "01/05/2015",
-                                            "monto": "3500",
-                                            "transaccion": "20967693",
+                                            "monto": "3300",
+                                            "transaccion": "20677693",
+                                            "banco": "Banamex"
+                                        }
+                                    },
+                                    {
+                                        "pago": {
+                                            "fecha": "01/05/2015",
+                                            "monto": "2500",
+                                            "transaccion": "90967693",
                                             "banco": "Banamex"
                                         }
                                     }
@@ -157,13 +165,13 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Marco Saint",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
-                                "motivo": "Comprar un nuevo movil",
+                                "motivo": "Comprar equipo deportivo",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-                                    "direccion": "Canal Miramontes 4327 Col. Coapa",
+                                    "direccion": "Tequila 427 Col. Coapa",
                                     "telefono": "54760934"
                                 },
                                 "pagos": [
@@ -189,10 +197,10 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Juan Escutia",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
-                                "motivo": "Pago de adeudos de Tarjeta",
+                                "motivo": "Pago de multa daños de la nación",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
@@ -239,7 +247,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Jonh F. Kennedy",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -271,7 +279,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Ariana Grande",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -310,7 +318,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Joaquin Mendez",
+                                "nombre": "Orlando Bloom",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -342,7 +350,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Vazquez",
+                                "nombre": "Mike Myers",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -381,7 +389,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Zdenek Tronicek",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -413,7 +421,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Jose Pitt",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -463,7 +471,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Angelina Jolie",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -495,7 +503,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Cristina Ricci",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -534,7 +542,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Joaquin Mendez",
+                                "nombre": "Mike Pitt",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -566,7 +574,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Vazquez",
+                                "nombre": "Barney Stinson",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
@@ -605,7 +613,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "324",
-                                "nombre": "Pedro Juarez",
+                                "nombre": "Robin Schrebasrky",
                                 "fecha_prestamo": "01/03/2015",
                                 "prestamo": "4500",
                                 "motivo": "Comprar un nuevo movil",
@@ -637,7 +645,7 @@
                         {
                             "cliente": {
                                 "idpresatmo": "325",
-                                "nombre": "Norma Munoz",
+                                "nombre": "Frauque Svens",
                                 "fecha_prestamo": "01/02/2015",
                                 "prestamo": "15000",
                                 "motivo": "Pago de adeudos de Tarjeta",
