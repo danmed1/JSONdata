@@ -18,7 +18,8 @@
                                         }
                                     }
                                 ]
-                            },{"nombre": "Louvre",
+                            
+                                "nombre": "Louvre",
                                 "ubicacion": [
                                     {
                                         "ubica": {
