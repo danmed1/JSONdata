@@ -7,9 +7,8 @@
                     "nombre": "Museo de Guerra",
                     "latitud": "1027000.0000",
                     "longuitud": "480320.0000"
-                }
-            },
-            {
+                },
+                
                 "museo": {
                     "nombre": "Museo Britanico",
                     "latitud": "9927000.0000",
