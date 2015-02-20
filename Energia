@@ -49,6 +49,53 @@
                 ]  
                             
                             }
+                        },
+                        {
+                "ciudad": {
+                    "nombre": "Strasbourg",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Cabinet des estampes et des dessins",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Musée Tomi Ungerer",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Musée alsacien",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": "129.2832985",
+                                            "latitud": "-919.13692"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                ]  
+                            
+                            }
                         }
                     ]
                 
