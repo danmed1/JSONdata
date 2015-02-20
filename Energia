@@ -7,25 +7,25 @@
 
 "museos":[
     {
-        "museo":[
+        "museo":
         {
-        "Museo Britanico": {
+            "nombre": "Museo Britanico", 
 
             "latitud": "323830.0000",
 
             "longuitud": "241420.0000"
 
-        },
-
-        "Museo Imperial de la Guerra": {
+        
+    },
+    {
+            "nombre": "Museo Britanico", 
 
             "latitud": "1027000.0000",
 
             "longuitud": "480320.0000"
 
-                        }
-            }
-            ]
+                        
+    }
            }
             
         ]   
