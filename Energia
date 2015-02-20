@@ -16,8 +16,10 @@
             "longuitud": "241420.0000"
 
         
-    },
+    }, 
+    "museo":
     {
+        
             "nombre": "Museo Britanico", 
 
             "latitud": "1027000.0000",
