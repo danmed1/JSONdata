@@ -1,26 +1,19 @@
 [
     {
         "name": "Inglaterra",
-"museos":[
-    {
-        "museo":
-        {
-            "nombre": "Museo Britanico", 
-
-            "latitud": "323830.0000",
-
-            "longuitud": "241420.0000"
-    }, 
-    "museo":
-    {
-        
-            "nombre": "Museo de Guerra", 
-
-            "latitud": "1027000.0000",
-
-            "longuitud": "480320.0000"
-    }
-           }
-        ]   
+        "museos": [
+            {
+                "museo": {
+                    "nombre": "Museo de Guerra",
+                    "latitud": "1027000.0000",
+                    "longuitud": "480320.0000"
+                },
+                "museo": {
+                    "nombre": "Museo Britanico",
+                    "latitud": "9927000.0000",
+                    "longuitud": "250320.0000"
+                }
+            }
+        ]
     }
 ]
