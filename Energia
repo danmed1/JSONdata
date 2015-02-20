@@ -18,7 +18,7 @@
                                         }
                                     }
                                 ]
-                            }
+                            },
                             "museo": {
                                 "nombre": "Louvre",
                                 "ubicacion": [
