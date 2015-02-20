@@ -9,8 +9,8 @@
                      "ubicacion": [
                         {
                             "ubica": {
-                                "longitud": "19.2832985",
-                                "latitud": "-99.13692"
+                                "longitud": 19.2832985,
+                                "latitud": -99.13692
                             }
                         }
                     ]
@@ -22,8 +22,8 @@
                      "ubicacion": [
                         {
                             "ubica": {
-                                "longitud": "129.2832985",
-                                "latitud": "-919.13692"
+                                "longitud": 129.2832985,
+                                "latitud": -919.13692
                             }
                         }
                     ]
@@ -41,8 +41,8 @@
                      "ubicacion": [
                         {
                             "ubica": {
-                                "longitud": "19.2832985",
-                                "latitud": "-99.13692"
+                                "longitud": 19.2832985,
+                                "latitud": -99.13692
                             }
                         }
                     ]
@@ -54,8 +54,8 @@
                      "ubicacion": [
                         {
                             "ubica": {
-                                "longitud": "129.2832985",
-                                "latitud": "-919.13692"
+                                "longitud": 129.2832985,
+                                "latitud": -919.13692
                             }
                         }
                     ]
