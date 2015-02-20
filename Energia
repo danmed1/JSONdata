@@ -11,10 +11,10 @@
             			    "ubica": {
             				    "latitud": "9927000.0000",
             				    "longitud": "250320.0000"
-            				}
+            				},
             		    }
                     ]
-                }
+                },
                 {
 	                "museo": {
 	                    "nombre": "Museo Carnavalet",
@@ -23,7 +23,7 @@
 	                            "ubica": {
 	                                "latitud": "2827000.0000",
 	                                "longitud": "290320.0000"
-	                            }
+	                            },
 	                        }
 	                    ]
 	                }
