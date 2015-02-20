@@ -4,7 +4,7 @@
         "nombre": "Francia",
         "museos": [
             {
-	            "museo": {
+		"museo": {
             		"nombre": "Louvre",
             		"ubicacion": [
             		    {
@@ -15,16 +15,18 @@
             		    }
                     ]
                 },
-                "museo": {
-                    "nombre": "Museo Carnavalet",
-                    "ubicacion": [
-                        {
-                            "ubica": {
-                                "latitud": "2827000.0000",
-                                "longitud": "290320.0000"
-                            }
-                        }
-                    ]
+                {
+	                "museo": {
+	                    "nombre": "Museo Carnavalet",
+	                    "ubicacion": [
+	                        {
+	                            "ubica": {
+	                                "latitud": "2827000.0000",
+	                                "longitud": "290320.0000"
+	                            }
+	                        }
+	                    ]
+	                }
                 }
             }
         ]
