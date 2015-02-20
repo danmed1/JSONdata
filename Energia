@@ -6,14 +6,14 @@
                 "museo": {
                     "nombre": "Museo Geffrye",
                     "latitud": "1027000.0000",
-                    "longuitud": "480320.0000"
+                    "longitud": "480320.0000"
                 }
             },
             {
                 "museo": {
                     "nombre": "Museo Britanico",
                     "latitud": "9927000.0000",
-                    "longuitud": "250320.0000"
+                    "longitud": "250320.0000"
                 }
             }
         ]
@@ -25,14 +25,14 @@
                 "museo": {
                     "nombre": "Louvre",
                     "latitud": "1027000.0000",
-                    "longuitud": "480320.0000"
+                    "longitud": "480320.0000"
                 }
             },
             {
                 "museo": {
                     "nombre": "Museo Carnavalet",
                     "latitud": "9927000.0000",
-                    "longuitud": "250320.0000"
+                    "longitud": "250320.0000"
                 }
             }
         ]
