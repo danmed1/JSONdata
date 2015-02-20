@@ -4,7 +4,7 @@
         "museos": [
             {
                 "museo": {
-                    "nombre": "Museo de Guerra",
+                    "nombre": "Museo Geffye",
                     "latitud": "1027000.0000",
                     "longuitud": "480320.0000"
                 }
@@ -30,7 +30,7 @@
             },
             {
                 "museo": {
-                    "nombre": "Museo de cosas",
+                    "nombre": "Museo Carnavalet",
                     "latitud": "9927000.0000",
                     "longuitud": "250320.0000"
                 }
