@@ -1,11 +1,11 @@
 [
     {
         "idPais": 0,
-        "nombre": "Francia",
+        "nombre": "France",
         "ciudades": [
             {
                 "ciudad": {
-                    "nombre": "París",
+                    "nombre": "Paris",
                     "museos": [
                         {
                             "museo": {
@@ -99,20 +99,46 @@
     },
     {
         "idPais": 0,
-        "nombre": "Inglaterra",
+        "nombre": "England",
         "ciudades": [
             {
                 "ciudad": {
-                    "nombre": "Londres",
+                    "nombre": "London",
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "Museo de Guerra",
+                                "nombre": "British Museum",
                                 "ubicacion": [
                                     {
                                         "ubica": {
-                                            "longitud": 129.2832985,
-                                            "latitud": -919.13692
+                                            "longitud": 7.750544,
+                                            "latitud": 48.581232
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "V&A",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": 7.755011,
+                                            "latitud": 48.585661
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Natural History Museum",
+                                "ubicacion": [
+                                    {
+                                        "ubica": {
+                                            "longitud": 7.750635,
+                                            "latitud": 48.579063
                                         }
                                     }
                                 ]
