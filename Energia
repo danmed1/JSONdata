@@ -52,15 +52,6 @@
                         },
                         {
                             "museo": {
-                                "nombre": "Musée Tomi Ungerer",
-                                "ubica": {
-                                    "longitud": 7.755010999999968,
-                                    "latitud": 48.5856610
-                                }
-                            }
-                        },
-                        {
-                            "museo": {
                                 "nombre": "Musée alsacien",
                                 "ubicacion": {
                                     "longitud": 7.750634999999988,
