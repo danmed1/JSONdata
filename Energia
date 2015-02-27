@@ -34,14 +34,12 @@
                         {
                             "museo": {
                                 "nombre": "Musée d'Orsay",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+
+                                        "ubicacion": {
                                             "longitud": 2.3265609999999697,
                                             "latitud": 48.859961
                                         }
-                                    }
-                                ]
+
                             }
                         }
                     ]
@@ -54,40 +52,34 @@
                         {
                             "museo": {
                                 "nombre": "Cabinet des estampes et des dessins",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+
+                                        "ubicacion": {
                                             "longitud": 7.750544,
                                             "latitud": 48.581232
                                         }
-                                    }
-                                ]
+ 
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée Tomi Ungerer",
-                                "ubicacion": [
-                                    {
+
                                         "ubica": {
                                             "longitud": 7.755011,
                                             "latitud": 48.585661
                                         }
-                                    }
-                                ]
+
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée alsacien",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+ 
+                                        "ubicacion": {
                                             "longitud": 7.750635,
                                             "latitud": 48.579063
                                         }
-                                    }
-                                ]
+            
                             }
                         }
                     ]
@@ -106,40 +98,34 @@
                         {
                             "museo": {
                                 "nombre": "British Museum",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+ 
+                                        "ubicacion": {
                                             "longitud": 7.750544,
                                             "latitud": 48.581232
                                         }
-                                    }
-                                ]
+   
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "V&A",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+       
+                                        "ubicacion": {
                                             "longitud": 7.755011,
                                             "latitud": 48.585661
                                         }
-                                    }
-                                ]
+                     
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Natural History Museum",
-                                "ubicacion": [
-                                    {
-                                        "ubica": {
+   
+                                        "ubicacion": {
                                             "longitud": 7.750635,
                                             "latitud": 48.579063
                                         }
-                                    }
-                                ]
+
                             }
                         }
                     ]
