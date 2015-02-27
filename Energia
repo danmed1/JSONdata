@@ -9,7 +9,7 @@
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "The Louvre",
+                                "nombre": "Le Louvre",
                                 "ubicacion": {
                                     "longitud": 2.3376439999999548,
                                     "latitud": 48.860611
