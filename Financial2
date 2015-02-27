@@ -7,7 +7,7 @@
             {
                 "estado": {
                     "nombre": "DF",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -17,10 +17,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -53,10 +53,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -86,7 +86,7 @@
             {
                 "estado": {
                     "nombre": "Monterey",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -96,10 +96,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -132,10 +132,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -173,7 +173,7 @@
             {
                 "estado": {
                     "nombre": "Guadalajara",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -183,10 +183,10 @@
                                 "motivo": "Comprar equipo deportivo",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Tequila 427 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -219,10 +219,10 @@
                                 "motivo": "Pago de multa daños de la nación",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -263,7 +263,7 @@
             {
                 "estado": {
                     "nombre": "Washington",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -273,10 +273,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -309,10 +309,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -342,7 +342,7 @@
             {
                 "estado": {
                     "nombre": "Arizona",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -352,10 +352,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -388,10 +388,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -421,7 +421,7 @@
             {
                 "estado": {
                     "nombre": "Colorado",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -431,10 +431,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -467,10 +467,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -511,7 +511,7 @@
             {
                 "estado": {
                     "nombre": "Toronto",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -521,10 +521,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -557,10 +557,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -590,7 +590,7 @@
             {
                 "estado": {
                     "nombre": "Montreal",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -600,10 +600,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -636,10 +636,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -669,7 +669,7 @@
             {
                 "estado": {
                     "nombre": "Quebec",
-                     "clientes": [
+                    "clientes": [
                         {
                             "cliente": {
                                 "idpresatmo": "324",
@@ -679,10 +679,10 @@
                                 "motivo": "Comprar un nuevo movil",
                                 "fecha_limite": "31/07/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
@@ -715,10 +715,10 @@
                                 "motivo": "Pago de adeudos de Tarjeta",
                                 "fecha_limite": "31/10/2015",
                                 "datos": {
-"geo": {
-            "longitud": 19.2832985,
-            "latitud": -99.13692
-        },
+                                    "geo": {
+                                        "longitud": 19.2832985,
+                                        "latitud": -99.13692
+                                    },
                                     "direccion": "Canal Miramontes 4327 Col. Coapa",
                                     "telefono": "54760934"
                                 },
