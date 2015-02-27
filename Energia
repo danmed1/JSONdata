@@ -75,6 +75,7 @@
                         {
                             "museo": {
                                 "nombre": "British Museum",
+                                "direccion" : "Great Russell Street, London WC1B 3DG, United Kingdom",
                                 "ubicacion": {
                                     "longitud": -0.12695699999994758,
                                     "latitud": 51.519413
