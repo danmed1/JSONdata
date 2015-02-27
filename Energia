@@ -64,7 +64,7 @@
                             "museo": {
                                 "nombre": "Musée Tomi Ungerer",
 
-                                        "ubica": {
+                                        "ubicacion": {
                                             "longitud": 7.755011,
                                             "latitud": 48.585661
                                         }
