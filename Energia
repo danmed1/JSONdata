@@ -12,8 +12,8 @@
                                 "nombre": "Le Louvre",
                                 "direccion":" Louvre Museum, 75001 Paris",
                                 "ubicacion": {
-                                    "longitud": 2.337966,
-                                    "latitud": 48.860657
+                                    "longitud": 2.337623,
+                                    "latitud": 48.860593
                                 }
                             }
                         },
@@ -22,8 +22,8 @@
                                 "nombre": "Petit Palais",
                                 "direccion":" Avenue Winston Churchill, 75008 Paris",
                                 "ubicacion": {
-                                    "longitud": 2.314547,
-                                    "latitud": 48.866249
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
                                 }
                             }
                         },
@@ -49,8 +49,8 @@
                                 "nombre": "Cabinet des estampes et des dessins",
                                 "direccion": "5 Place du Château, 67000 Strasbourg",
                                 "ubicacion": {
-                                    "longitud": 7.750501,
-                                    "latitud": 48.581441
+                                    "longitud": 7.750533,
+                                    "latitud": 48.581221
                                 }
                             }
                         },
@@ -59,8 +59,8 @@
                                 "nombre": "Musée alsacien",
                                 "direccion": "23-25 Quai Saint-Nicolas, 67000 Strasbourg",
                                 "ubicacion": {
-                                    "longitud": 7.750646,
-                                    "latitud": 48.579201
+                                    "longitud": 7.750614,
+                                    "latitud": 48.579067
                                 }
                             }
                         }
@@ -104,6 +104,43 @@
                                 "ubicacion": {
                                     "longitud": -0.176367,
                                     "latitud": 51.496885
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ciudad": {
+                    "nombre": "Liverpool",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Museum of Liverpool",
+                                "direccion" : "Liverpool Waterfront , Pier Head, Liverpool, Merseyside L3 1DG",
+                                "ubicacion": {
+                                    "longitud": -2.995593,
+                                    "latitud": 53.403138
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Merseyside Maritime Museum",
+                                "direccion" : "Albert Dock, Liverpool Waterfront, Liverpool, Merseyside L3 4AQ",
+                                "ubicacion": {
+                                    "longitud": -2.992919,
+                                    "latitud": 53.401251
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "International Slavery Museum",
+                                "direccion" : "3rd Floor of Merseyside Maritime Museum, Albert Dock, Liverpool, Merseyside L3 4AX",
+                                "ubicacion": {
+                                    "longitud": -2.992667,
+                                    "latitud": 53.401318
                                 }
                             }
                         }
