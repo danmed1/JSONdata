@@ -10,27 +10,30 @@
                         {
                             "museo": {
                                 "nombre": "Le Louvre",
+                                "direccion":" Louvre Museum, 75001 Paris",
                                 "ubicacion": {
-                                    "longitud": 2.3376439999999548,
-                                    "latitud": 48.860611
+                                    "longitud": 2.337966,
+                                    "latitud": 48.860657
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Petit Palais",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
                                 "ubicacion": {
-                                    "longitud": -0.06066369999996368,
-                                    "latitud": 44.9859936
+                                    "longitud": 2.314547,
+                                    "latitud": 48.866249
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée d'Orsay",
+                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
                                 "ubicacion": {
-                                    "longitud": 2.3265609999999697,
-                                    "latitud": 48.859961
+                                    "longitud": 2.326540,
+                                    "latitud": 48.860169
                                 }
                             }
                         }
@@ -44,18 +47,20 @@
                         {
                             "museo": {
                                 "nombre": "Cabinet des estampes et des dessins",
+                                "direccion": "5 Place du Château, 67000 Strasbourg",
                                 "ubicacion": {
-                                    "longitud": 7.750544,
-                                    "latitud": 48.581232
+                                    "longitud": 7.750501,
+                                    "latitud": 48.581441
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée alsacien",
+                                "direccion": "23-25 Quai Saint-Nicolas, 67000 Strasbourg",
                                 "ubicacion": {
-                                    "longitud": 7.750634999999988,
-                                    "latitud": 48.579063
+                                    "longitud": 7.750646,
+                                    "latitud": 48.579201
                                 }
                             }
                         }
@@ -75,28 +80,30 @@
                         {
                             "museo": {
                                 "nombre": "British Museum",
-                                "direccion" : "Great Russell Street, London WC1B 3DG, United Kingdom",
+                                "direccion" : "Great Russell Street, London WC1B 3DG",
                                 "ubicacion": {
-                                    "longitud": -0.12695699999994758,
-                                    "latitud": 51.519413
+                                    "longitud": -0.126968,
+                                    "latitud": 51.519643
                                 }
                             }
                         },
                         {
                             "museo": {
-                                "nombre": "V&A",
+                                "nombre": "Victoria and Albert Museum",
+                                "direccion" : "Cromwell Road, Knightsbridge, London SW7 2RL",
                                 "ubicacion": {
-                                    "longitud": -0.17218000000002576,
-                                    "latitud": 51.496639
+                                    "longitud": -0.172191,
+                                    "latitud": 51.496789
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Natural History Museum",
+                                "direccion" : "Cromwell Road, Kensington, London SW7 5BD",
                                 "ubicacion": {
-                                    "longitud": -0.17636700000002747,
-                                    "latitud": 51.496715
+                                    "longitud": -0.176367,
+                                    "latitud": 51.496885
                                 }
                             }
                         }
