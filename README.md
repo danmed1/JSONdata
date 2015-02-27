@@ -1,2 +1,2 @@
 # JSONdata
-This is just a JSON file with data
+This is just a folder with JSON data
