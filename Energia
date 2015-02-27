@@ -10,36 +10,28 @@
                         {
                             "museo": {
                                 "nombre": "The Louvre",
-                               
-                                    
-                                        "ubicacion": {
-                                            "longitud": 2.3376439999999548,
-                                            "latitud": 48.860611
-                                        }
-                                    
-                                
+                                "ubicacion": {
+                                    "longitud": 2.3376439999999548,
+                                    "latitud": 48.860611
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Petit Palais",
-                                
-                                        "ubicacion": {
-                                            "longitud": -0.06066369999996368,
-                                            "latitud": 44.9859936
-                                        }
-                                 
+                                "ubicacion": {
+                                    "longitud": -0.06066369999996368,
+                                    "latitud": 44.9859936
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée d'Orsay",
-
-                                        "ubicacion": {
-                                            "longitud": 2.3265609999999697,
-                                            "latitud": 48.859961
-                                        }
-
+                                "ubicacion": {
+                                    "longitud": 2.3265609999999697,
+                                    "latitud": 48.859961
+                                }
                             }
                         }
                     ]
@@ -52,34 +44,28 @@
                         {
                             "museo": {
                                 "nombre": "Cabinet des estampes et des dessins",
-
-                                        "ubicacion": {
-                                            "longitud": 7.750544,
-                                            "latitud": 48.581232
-                                        }
- 
+                                "ubicacion": {
+                                    "longitud": 7.750544,
+                                    "latitud": 48.581232
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée Tomi Ungerer",
-
-                                        "ubicacion": {
-                                            "longitud": 7.755011,
-                                            "latitud": 48.585661
-                                        }
-
+                                "ubica": {
+                                    "longitud": 7.755011,
+                                    "latitud": 48.585661
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Musée alsacien",
- 
-                                        "ubicacion": {
-                                            "longitud": 7.750635,
-                                            "latitud": 48.579063
-                                        }
-            
+                                "ubicacion": {
+                                    "longitud": 7.750635,
+                                    "latitud": 48.579063
+                                }
                             }
                         }
                     ]
@@ -98,34 +84,28 @@
                         {
                             "museo": {
                                 "nombre": "British Museum",
- 
-                                        "ubicacion": {
-                                            "longitud": 7.750544,
-                                            "latitud": 48.581232
-                                        }
-   
+                                "ubicacion": {
+                                    "longitud": 7.750544,
+                                    "latitud": 48.581232
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "V&A",
-       
-                                        "ubicacion": {
-                                            "longitud": 7.755011,
-                                            "latitud": 48.585661
-                                        }
-                     
+                                "ubicacion": {
+                                    "longitud": 7.755011,
+                                    "latitud": 48.585661
+                                }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Natural History Museum",
-   
-                                        "ubicacion": {
-                                            "longitud": 7.750635,
-                                            "latitud": 48.579063
-                                        }
-
+                                "ubicacion": {
+                                    "longitud": 7.750635,
+                                    "latitud": 48.579063
+                                }
                             }
                         }
                     ]
