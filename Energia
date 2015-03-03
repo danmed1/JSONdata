@@ -10,7 +10,7 @@
                         {
                             "museo": {
                                 "nombre": "Louvre",
-                                "direccion":" Louvre Museum, 75001 Paris",
+                                "direccion": " Louvre Museum, 75001 Paris",
                                 "ubicacion": {
                                     "longitud": 2.337623,
                                     "latitud": 48.860593
@@ -20,7 +20,7 @@
                         {
                             "museo": {
                                 "nombre": "Petit Palais",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": " Avenue Winston Churchill, 75008 Paris",
                                 "ubicacion": {
                                     "longitud": 2.314558,
                                     "latitud": 48.866037
@@ -30,9 +30,9 @@
                         {
                             "museo": {
                                 "nombre": "Musée d'Orsay",
-                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "direccion": " 1 Rue de la Légion d'Honneur, 75007 Paris",
                                 "ubicacion": {
-                                    "longitud": 2.326540,
+                                    "longitud": 2.32654,
                                     "latitud": 48.860169
                                 }
                             }
@@ -69,7 +69,7 @@
             }
         ]
     },
-        {
+    {
         "idPais": 0,
         "nombre": "Deutschland",
         "ciudades": [
@@ -79,51 +79,51 @@
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "Pergamonmuseum",
-                                "direccion":" Louvre Museum, 75001 Paris",
+                                "nombre": "Pergamon Museum",
+                                "direccion": "Bodestraße 1-3, 10178 Berlin",
                                 "ubicacion": {
-                                    "longitud": 2.337623,
-                                    "latitud": 48.860593
+                                    "longitud": 13.396879,
+                                    "latitud": 52.521180
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Topographie des Terrors",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": "Niederkirchnerstraße 8, 10963 Berlin",
                                 "ubicacion": {
-                                    "longitud": 2.314558,
-                                    "latitud": 48.866037
+                                    "longitud": 13.383681,
+                                    "latitud": 52.506674
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Haus am Checkpoint Charlie",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": "Friedrichstraße 43-45, 10969 Berlin",
                                 "ubicacion": {
-                                    "longitud": 2.314558,
-                                    "latitud": 48.866037
+                                    "longitud": 13.390615,
+                                    "latitud": 52.507145
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Jüdische Museum Berlin",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": "Lindenstraße 9-14, 10969 Berlin",
                                 "ubicacion": {
-                                    "longitud": 2.314558,
-                                    "latitud": 48.866037
+                                    "longitud": 13.395426,
+                                    "latitud": 52.502309
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Deutsche Historisches Museum",
-                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "direccion": "Unter den Linden 2, 10117 Berlin",
                                 "ubicacion": {
-                                    "longitud": 2.326540,
-                                    "latitud": 48.860169
+                                    "longitud": 13.396858,
+                                    "latitud": 52.518836
                                 }
                             }
                         }
@@ -137,30 +137,30 @@
                         {
                             "museo": {
                                 "nombre": "Deutsches Museum",
-                                "direccion":" Louvre Museum, 75001 Paris",
+                                "direccion": "Museumsinsel 1, 80538 München",
                                 "ubicacion": {
-                                    "longitud": 2.337623,
-                                    "latitud": 48.860593
+                                    "longitud": 11.583441,
+                                    "latitud": 48.129867
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Museum Mensch und Natur",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": "Schloss Nymphenburg, 80638 München",
                                 "ubicacion": {
-                                    "longitud": 2.314558,
-                                    "latitud": 48.866037
+                                    "longitud": 11.503298,
+                                    "latitud": 48.158275
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Paläontologischen Museum München",
-                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "direccion": "Richard-Wagner-Straße 10, 80333 München",
                                 "ubicacion": {
-                                    "longitud": 2.326540,
-                                    "latitud": 48.860169
+                                    "longitud": 11.563548,
+                                    "latitud": 48.147507
                                 }
                             }
                         }
@@ -174,30 +174,30 @@
                         {
                             "museo": {
                                 "nombre": "Museum Ludwig",
-                                "direccion":" Louvre Museum, 75001 Paris",
+                                "direccion": "Heinrich-Böll-Platz, 50667 Köln",
                                 "ubicacion": {
-                                    "longitud": 2.337623,
-                                    "latitud": 48.860593
+                                    "longitud": 6.960525,
+                                    "latitud": 50.940755
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Romano-Germanic Museum",
-                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "direccion": "Roncalliplatz 4, 50667 Köln",
                                 "ubicacion": {
-                                    "longitud": 2.314558,
-                                    "latitud": 48.866037
+                                    "longitud": 6.958943,
+                                    "latitud": 50.940583
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Wallraf-Richartz Museum",
-                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "direccion": "Obenmarspforten 40, 50667 Köln",
                                 "ubicacion": {
-                                    "longitud": 2.326540,
-                                    "latitud": 48.860169
+                                    "longitud": 6.958512,
+                                    "latitud": 50.937407
                                 }
                             }
                         }
@@ -211,20 +211,20 @@
                         {
                             "museo": {
                                 "nombre": "Kunsthalle Hamburg und Galerie der Gegenwart",
-                                "direccion": "5 Place du Château, 67000 Strasbourg",
+                                "direccion": "Glockengießerwall, 20095 Hamburg",
                                 "ubicacion": {
-                                    "longitud": 7.750533,
-                                    "latitud": 48.581221
+                                    "longitud": 10.002525,
+                                    "latitud": 53.555501
                                 }
                             }
                         },
                         {
                             "museo": {
                                 "nombre": "Museum für Kunst und Gewerbe",
-                                "direccion": "23-25 Quai Saint-Nicolas, 67000 Strasbourg",
+                                "direccion": "Steintorplatz, 20099 Hamburg",
                                 "ubicacion": {
-                                    "longitud": 7.750614,
-                                    "latitud": 48.579067
+                                    "longitud": 10.009425,
+                                    "latitud": 53.551290
                                 }
                             }
                         }
@@ -244,7 +244,7 @@
                         {
                             "museo": {
                                 "nombre": "British Museum",
-                                "direccion" : "Great Russell Street, London WC1B 3DG",
+                                "direccion": "Great Russell Street, London WC1B 3DG",
                                 "ubicacion": {
                                     "longitud": -0.126968,
                                     "latitud": 51.519643
@@ -254,7 +254,7 @@
                         {
                             "museo": {
                                 "nombre": "Victoria and Albert Museum",
-                                "direccion" : "Cromwell Road, Knightsbridge, London SW7 2RL",
+                                "direccion": "Cromwell Road, Knightsbridge, London SW7 2RL",
                                 "ubicacion": {
                                     "longitud": -0.172191,
                                     "latitud": 51.496789
@@ -264,7 +264,7 @@
                         {
                             "museo": {
                                 "nombre": "Natural History Museum",
-                                "direccion" : "Cromwell Road, Kensington, London SW7 5BD",
+                                "direccion": "Cromwell Road, Kensington, London SW7 5BD",
                                 "ubicacion": {
                                     "longitud": -0.176367,
                                     "latitud": 51.496885
@@ -281,7 +281,7 @@
                         {
                             "museo": {
                                 "nombre": "Museum of Liverpool",
-                                "direccion" : "Liverpool Waterfront , Pier Head, Liverpool, Merseyside L3 1DG",
+                                "direccion": "Liverpool Waterfront , Pier Head, Liverpool, Merseyside L3 1DG",
                                 "ubicacion": {
                                     "longitud": -2.995593,
                                     "latitud": 53.403138
@@ -291,7 +291,7 @@
                         {
                             "museo": {
                                 "nombre": "Merseyside Maritime Museum",
-                                "direccion" : "Albert Dock, Liverpool Waterfront, Liverpool, Merseyside L3 4AQ",
+                                "direccion": "Albert Dock, Liverpool Waterfront, Liverpool, Merseyside L3 4AQ",
                                 "ubicacion": {
                                     "longitud": -2.992919,
                                     "latitud": 53.401251
@@ -301,7 +301,7 @@
                         {
                             "museo": {
                                 "nombre": "International Slavery Museum",
-                                "direccion" : "3rd Floor of Merseyside Maritime Museum, Albert Dock, Liverpool, Merseyside L3 4AX",
+                                "direccion": "3rd Floor of Merseyside Maritime Museum, Albert Dock, Liverpool, Merseyside L3 4AX",
                                 "ubicacion": {
                                     "longitud": -2.992667,
                                     "latitud": 53.401318
