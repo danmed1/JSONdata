@@ -9,7 +9,7 @@
                     "museos": [
                         {
                             "museo": {
-                                "nombre": "Le Louvre",
+                                "nombre": "Louvre",
                                 "direccion":" Louvre Museum, 75001 Paris",
                                 "ubicacion": {
                                     "longitud": 2.337623,
