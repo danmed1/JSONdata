@@ -69,6 +69,170 @@
             }
         ]
     },
+        {
+        "idPais": 0,
+        "nombre": "Deutschland",
+        "ciudades": [
+            {
+                "ciudad": {
+                    "nombre": "Berlin",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Pergamonmuseum",
+                                "direccion":" Louvre Museum, 75001 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.337623,
+                                    "latitud": 48.860593
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Topographie des Terrors",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Haus am Checkpoint Charlie",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Jüdische Museum Berlin",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Deutsche Historisches Museum",
+                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.326540,
+                                    "latitud": 48.860169
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ciudad": {
+                    "nombre": "München",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Deutsches Museum",
+                                "direccion":" Louvre Museum, 75001 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.337623,
+                                    "latitud": 48.860593
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Museum Mensch und Natur",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Paläontologischen Museum München",
+                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.326540,
+                                    "latitud": 48.860169
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ciudad": {
+                    "nombre": "Köln",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Museum Ludwig",
+                                "direccion":" Louvre Museum, 75001 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.337623,
+                                    "latitud": 48.860593
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Romano-Germanic Museum",
+                                "direccion":" Avenue Winston Churchill, 75008 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.314558,
+                                    "latitud": 48.866037
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Wallraf-Richartz Museum",
+                                "direccion":" 1 Rue de la Légion d'Honneur, 75007 Paris",
+                                "ubicacion": {
+                                    "longitud": 2.326540,
+                                    "latitud": 48.860169
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ciudad": {
+                    "nombre": "Hamburg",
+                    "museos": [
+                        {
+                            "museo": {
+                                "nombre": "Kunsthalle Hamburg und Galerie der Gegenwart",
+                                "direccion": "5 Place du Château, 67000 Strasbourg",
+                                "ubicacion": {
+                                    "longitud": 7.750533,
+                                    "latitud": 48.581221
+                                }
+                            }
+                        },
+                        {
+                            "museo": {
+                                "nombre": "Museum für Kunst und Gewerbe",
+                                "direccion": "23-25 Quai Saint-Nicolas, 67000 Strasbourg",
+                                "ubicacion": {
+                                    "longitud": 7.750614,
+                                    "latitud": 48.579067
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
     {
         "idPais": 0,
         "nombre": "England",
